@@ -4,6 +4,7 @@ We have provided base keymaps for the following layouts: ANSI, ISO, Split backsp
 
 THIS IS NOT THE REPO FOR THE V2/BT65/BT75, those files can be accessed [here](https://github.com/PolarityWorks/zmk-config-ckp)
 
+
 # Customisation
 In order to change the keymap to meet your needs, you will need a GitHub account. Click the "fork" button in the top right to create your own version of the repo, then use the drop down menu to select the branch with your layout.
 The keymap information is contained entirely within the file bt60.keymap. Download this file to your computer and open it in a text editor such as Atom or notepad++ then you can open and edit it. The full list of ZMK keycodes can be found [here](https://zmkfirmware.dev/docs/codes/keyboard-keypad/). 
